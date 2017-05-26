@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Instructors}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Curriculum}{5}{0}{1}
+\beamer@sectionintoc {2}{Environment}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Terminal and Basic Commands}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Editor}{11}{0}{2}
+\beamer@sectionintoc {3}{Hello World}{15}{0}{3}

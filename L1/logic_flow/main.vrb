@@ -10,7 +10,7 @@
         Whether the triangle is equilateral, isosceles, or scalene \\ \hline
         Cutoff for A, B, C grades, and also marks of one student (out of 100) &
         Whether the cutoffs are valid, and what grade the student received. \\ \hline
-        c &
+        All number from 1 to 5 ?  &
         d \\ \hline
         c &
         d

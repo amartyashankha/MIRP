@@ -1,0 +1,14 @@
+bool T = true, F = false;
+int a=-2, b=-1, c=0, d=1, e=2, f=3, g=4;
+
+(d == b+e)
+
+(f*1.0/e == d)
+
+(g/e == e)
+
+((b == b*d) && (f == g-e))
+
+((d == e+f) || (c == a+e))
+
+! ((a == b*e) && (d == g/f))

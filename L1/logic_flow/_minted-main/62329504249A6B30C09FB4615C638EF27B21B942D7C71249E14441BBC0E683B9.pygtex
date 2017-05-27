@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+        \PYG{k}{if} \PYG{p}{(}\PYG{n}{number\PYGZus{}of\PYGZus{}lines} \PYG{o}{\PYGZgt{}} \PYG{l+m+mi}{1}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+            \PYG{n}{cout} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{l+s}{\PYGZdq{}More than one line.\PYGZdq{}}\PYG{p}{;}
+            \PYG{n}{cout} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{l+s}{\PYGZdq{}Have to use a block.\PYGZdq{}}\PYG{p}{;}
+        \PYG{p}{\PYGZcb{}}
+        \PYG{k}{else}\PYG{p}{\PYGZob{}}
+            \PYG{n}{cout} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{l+s}{\PYGZdq{}Curly braces are optional.\PYGZdq{}}\PYG{p}{;}
+        \PYG{p}{\PYGZcb{}}
+\end{Verbatim}

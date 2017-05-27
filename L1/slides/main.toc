@@ -1,8 +1,13 @@
 \beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Instructors}{4}{0}{1}
-\beamer@subsectionintoc {1}{2}{Curriculum}{5}{0}{1}
-\beamer@sectionintoc {2}{Environment}{7}{0}{2}
-\beamer@subsectionintoc {2}{1}{Terminal and Basic Commands}{8}{0}{2}
-\beamer@subsectionintoc {2}{2}{Editor}{11}{0}{2}
-\beamer@sectionintoc {3}{Hello World}{15}{0}{3}
+\beamer@subsectionintoc {1}{1}{Curriculum}{4}{0}{1}
+\beamer@sectionintoc {2}{Environment}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Terminal and Basic Commands}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Editor}{13}{0}{2}
+\beamer@sectionintoc {3}{Basics}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{Input and Output}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Variables}{24}{0}{3}
+\beamer@subsectionintoc {3}{3}{Expressions}{30}{0}{3}
+\beamer@subsectionintoc {3}{4}{Comments}{36}{0}{3}
+\beamer@subsectionintoc {3}{5}{Example}{38}{0}{3}
+\beamer@sectionintoc {4}{Exercises}{41}{0}{4}

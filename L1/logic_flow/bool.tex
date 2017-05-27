@@ -1,0 +1,72 @@
+\section{Logical Expressions}
+
+\subsection{Booleans}
+\begin{frame}[fragile]{Booleans}{A New Data Type}
+    \begin{block}{}
+        Booleans only have two possible values -- True or False
+    \end{block}
+    {\Large \textbf{Statement}\\ Schrodinger's cat is dead !}
+    \begin{columns}[c]
+        \column{.4\textwidth}
+            \setbeamercolor{block title}{use=structure,fg=white,bg=green!35!black}
+            \begin{block}{True}
+            \begin{center}
+                \includegraphics[width=\linewidth]{images/dead_cat.jpg}
+            \end{center}
+            \end{block}
+        \column{.4\textwidth}
+            \setbeamercolor{block title}{use=structure,fg=white,bg=red!35!black}
+            \begin{block}{False}
+            \begin{center}
+                \includegraphics[width=\linewidth]{images/cat.jpg}
+            \end{center}
+            \end{block}
+    \end{columns}
+\end{frame}
+
+\begin{frame}[fragile]{Booleans}{A New Data Type}
+    \begin{itemize}
+        \item In C++ we have a \textbf{bool} data-type
+            \begin{minted}{c++}
+                bool var = true;
+            \end{minted}
+        \item Actually stored as integer (\textbf{true} is 1 and \textbf{false} is 0)
+        \pause
+        \item In the other direction
+            \begin{itemize}
+                \item Zero value is \textbf{true}
+                \item Non-Zero value is \textbf{false}
+            \end{itemize}
+    \end{itemize}
+\end{frame}
+
+\subsection{New Operators}
+\begin{frame}[fragile]{Relational Operators}{}
+    \begin{table}[]
+    \centering
+    \begin{tabular}{cccc}
+    \hline
+    \textbf{Operation}  & \textbf{Common Symbol} & \textbf{C++ Symbol} & \textbf{Expression} \\ \hline
+    Equals              & $=$       & $==$  & $(a == b)           $ \\ \hline
+    Not Equals          & $\not=$   & $!=$  & $(a \mathrel!= b)           $ \\ \hline
+    Less Than           & $<$       & $<$   & $(a < b)    $ \\ \hline
+    Greater Than        & $>$       & $>$   & $(a > b) $ \\ \hline
+    Less Than Equals    & $\le$     & $<=$  & $(a <= b)   $ \\ \hline
+    Greater Than Equals & $\ge$     & $>=$  & $(a >= b)$ \\ \hline
+    \end{tabular}
+    \end{table}
+\end{frame}
+
+\begin{frame}[fragile]{Logical Operators}{}
+    \Large
+    \begin{table}[]
+    \centering
+    \begin{tabular}{ccc}
+    \hline
+    \textbf{Operation} & \textbf{Symbol} & \textbf{Expression}        \\ \hline
+    And                & $\&\&$          & $(a \mathrel!= b) \ \&\& \ (a \% 2 == 0)$ \\ \hline
+    Or                 & $||$            & $(a > b) \ || \ (a / 2 > 4)$   \\ \hline
+    Not                & $!$             & $!(a == b)$                \\ \hline
+    \end{tabular}
+    \end{table}
+\end{frame}

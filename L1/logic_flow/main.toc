@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Recap}{3}{0}{1}
+\beamer@sectionintoc {2}{Logical Expressions}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Booleans}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{New Operators}{7}{0}{2}
+\beamer@sectionintoc {3}{Conditionals}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{If Else Statements}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Nested Conditionals}{15}{0}{3}
+\beamer@sectionintoc {4}{Exercises}{18}{0}{4}

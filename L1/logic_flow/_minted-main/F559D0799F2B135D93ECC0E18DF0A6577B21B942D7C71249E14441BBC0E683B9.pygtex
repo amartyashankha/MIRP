@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+                \PYG{k+kt}{bool} \PYG{n}{var} \PYG{o}{=} \PYG{n+nb}{true}\PYG{p}{;}
+\end{Verbatim}

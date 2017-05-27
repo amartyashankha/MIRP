@@ -1,0 +1,72 @@
+\subsection{Expressions}
+
+\begin{frame}[fragile]{Arithmetic in C++}{How to make a Calculator}
+    \begin{center}
+        \begin{table}[]
+    \centering
+    \begin{tabular}{lccc}
+    \hline
+    \multicolumn{1}{c}{\textbf{Operation}} & \textbf{Symbol} & \textbf{Expression} & \textbf{Equivalent To} \\ \hline
+    Addition          & $+ $     & $a + b$    & $-$         \\ \hline
+    Subtraction       & $- $     & $a - b$    & $-$         \\ \hline
+    Multiplication    & $* $     & $a * b$    & $-$         \\ \hline
+    Division          & $/ $     & $a / b$    & $-$         \\ \hline
+    Remainder         & $\%$     & $a \% b$   & $-$         \\ \hline
+    \pause
+    Increment         & $++$     & $++a$      & $a = a+1$    \\ \hline
+    Decrement         & $--$     & $--a$      & $a = a-1$    \\ \hline
+    \end{tabular}
+    \end{table}
+    \end{center}
+\end{frame}
+
+\begin{frame}[fragile]{Order of Operations}{}
+    \Large
+    \begin{block}{Use Brackets to Define Order of Operations}
+        \begin{minted}{c++}
+            ((a+b)*(c+d))/5
+            (a/b)*(c/d)
+        \end{minted}
+    \end{block}
+    \begin{example}
+        \begin{minted}{c++}
+            float pi=3.14159, R=5.0;
+            float volume = (4.0/3.0)*pi*R*R*R;
+        \end{minted}
+    \end{example}
+\end{frame}
+
+\begin{frame}[fragile]{Integer Division}{}
+    \begin{itemize}
+        \item What is the value of the expression $(5/2)$ ?
+        \begin{itemize}
+            \item Answer: $2$
+        \end{itemize}
+        \item How to do actual division ?
+        \begin{itemize}
+            \item $(5.0/2)$
+            \item $(5/2.0)$
+        \end{itemize}
+        \item If you are dealing with variables -- $(x/2)$
+        \begin{itemize}
+            \item $(x*1.0/2)$
+            \item $(x/2.0)$
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]{Shorthand}{}
+    \Large
+    \begin{table}[]
+    \centering
+    \begin{tabular}{cc}
+    \hline
+    \textbf{Expression} & \textbf{Equivalent To} \\ \hline
+    $a \mathrel+= b $          & $a = a + b $        \\ \hline
+    $a \mathrel-= b $          & $a = a - b $        \\ \hline
+    $a \mathrel*= b $          & $a = a * b $        \\ \hline
+    $a \mathrel/= b $          & $a = a / b $        \\ \hline
+    $a \mathrel\%= b$          & $a = a \% b$        \\ \hline
+    \end{tabular}
+    \end{table}
+\end{frame}

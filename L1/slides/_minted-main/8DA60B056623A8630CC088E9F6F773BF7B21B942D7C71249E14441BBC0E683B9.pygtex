@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+            \PYG{k+kt}{int} \PYG{n}{N} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{;}
+            \PYG{c+cm}{/* This is a comment}
+\PYG{c+cm}{            that spans}
+\PYG{c+cm}{            multiple lines */}
+            \PYG{n}{cin} \PYG{o}{\PYGZgt{}\PYGZgt{}} \PYG{n}{N}\PYG{p}{;}
+\end{Verbatim}

@@ -1,4 +1,4 @@
-\section{Hello World}
+\subsection{Input and Output}
 
 \begin{frame}{Hello World !}{The First C++ Program}
   \inputminted{c++}{../code/hello_world/hello_world.cpp}
@@ -18,5 +18,28 @@
   \end{itemize}
 \end{frame}
 
+\begin{frame}{Taking Input from User}{}
+  \inputminted{c++}{../code/input/input.cpp}
+\end{frame}
+
+\begin{frame}[fragile]{Syntax}%{The Spelling of C++}
+    \begin{itemize}
+        \item Statements are terminated by semicolons
+            \begin{minted}{c++}
+                cout << "Hello World !";
+            \end{minted}
+        \item A block is several statements inside curly brackets
+            \begin{minted}{c++}
+                {
+                    int N;
+                    cin >> N;
+                    cout << N << endl;
+                    return 0;
+                }
+            \end{minted}
+    \end{itemize}
+\end{frame}
+
 \begin{frame}{Try it out}{}
+    Download Code
 \end{frame}

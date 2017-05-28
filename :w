@@ -1,0 +1,30 @@
+\section{Logical Expressions}
+
+\subsection{Booleans}
+\begin{frame}[fragile]{Booleans}{A New Data Type}
+    \begin{block}{}
+        Booleans only have two possible values -- 1 or 0  (True or False)
+    \end{block}
+    \vfill
+    {\Large {\\} Schrodinger's cat is dead !}
+    \begin{columns}[c]
+        \column{.4\textwidth}
+            \setbeamercolor{block title}{use=structure,fg=white,bg=green!35!black}
+            \begin{block}{True}
+            \begin{center}
+                \includegraphics[width=\linewidth]{images/dead_cat.jpg}
+            \end{center}
+            \end{block}
+        \column{.4\textwidth}
+            \setbeamercolor{block title}{use=structure,fg=white,bg=red!35!black}
+            \begin{block}{False}
+            \begin{center}
+                \includegraphics[width=\linewidth]{images/cat.jpg}
+            \end{center}
+            \end{block}
+    \end{columns}
+\end{frame}
+
+\subsection{Logical Operators}
+\begin{frame}[fragile]{Logical Operators}{}
+\end{frame}

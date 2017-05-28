@@ -1,0 +1,53 @@
+\subsection{Counters}
+
+\begin{frame}[fragile]{Unknown Number of Inputs}{}
+    \begin{itemize}
+        \item User specifies the number of inputs
+        \begin{itemize}
+            \item Take $N$ inputs and arrange them in ascending order.
+            \item Find the average of $N$ numbers
+        \end{itemize}
+        \item Thoughts ?
+        \item Use a counter variable
+        \begin{itemize}
+            \item Initialize counter to zero
+                \begin{minted}{c++}
+                    int counter = 0;
+                \end{minted}
+            \item Increment counter at every loop iteration
+                \begin{minted}{c++}
+                    counter += 1; OR counter++;
+                \end{minted}
+            \item Terminate when counter hits $N$
+                \begin{minted}{c++}
+                    while (counter < N) { . . . }
+                \end{minted}
+        \end{itemize}
+    \end{itemize}
+  %\inputminted{c++}{../code/hello_world/hello_world.cpp}
+\end{frame}
+
+\begin{frame}[fragile]{Using a Counter}{}
+    \begin{minted}{c++}
+        int counter = 0, N;
+        cin >> N;
+        while (counter < N) {
+            // Body of Loop. Take input, process data etc . .
+            counter++;
+            cout << "Counter Value:" << counter << endl;
+        }
+        cout << "Exited Loop\n";
+    \end{minted}
+    \pause
+    \begin{block}{If the input $N$ is 6, this results in the following output.}
+        \begin{minted}{bash}
+            Counter Value:1
+            Counter Value:2
+            Counter Value:3
+            Counter Value:4
+            Counter Value:5
+            Counter Value:6
+            Exited Loop
+        \end{minted}
+    \end{block}
+\end{frame}

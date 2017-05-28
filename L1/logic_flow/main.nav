@@ -44,13 +44,39 @@
 \headcommand {\beamer@framepages {16}{16}}
 \headcommand {\slideentry {3}{2}{3}{17/17}{Nested Conditionals}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\sectionentry {4}{Exercises}{18}{Exercises}{0}}
-\headcommand {\beamer@sectionpages {10}{17}}
-\headcommand {\beamer@subsectionpages {15}{17}}
-\headcommand {\slideentry {4}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{18}{Exercises}}\headcommand {\beamer@subsectionpages {15}{17}}
+\headcommand {\slideentry {3}{3}{1}{18/18}{Exercises}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@partpages {1}{18}}
-\headcommand {\beamer@subsectionpages {18}{18}}
-\headcommand {\beamer@sectionpages {18}{18}}
-\headcommand {\beamer@documentpages {18}}
-\headcommand {\def \inserttotalframenumber {17}}
+\headcommand {\slideentry {3}{3}{2}{19/19}{Exercises}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\sectionentry {4}{Loops}{20}{Loops}{0}}
+\headcommand {\beamer@sectionpages {10}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\slideentry {4}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{21}{While Loop}}\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\slideentry {4}{1}{1}{21/21}{While Loop}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {4}{1}{2}{22/22}{While Loop}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {4}{1}{3}{23/23}{While Loop}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {4}{1}{4}{24/24}{While Loop}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{25}{Counters}}\headcommand {\beamer@subsectionpages {21}{24}}
+\headcommand {\slideentry {4}{2}{1}{25/25}{Counters}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {4}{2}{2}{26/26}{Counters}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {4}{2}{3}{27/28}{Counters}{0}}
+\headcommand {\beamer@framepages {27}{28}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{29}{Exercises}}\headcommand {\beamer@subsectionpages {25}{28}}
+\headcommand {\slideentry {4}{3}{1}{29/29}{Exercises}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {4}{3}{2}{30/30}{Exercises}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@partpages {1}{30}}
+\headcommand {\beamer@subsectionpages {29}{30}}
+\headcommand {\beamer@sectionpages {20}{30}}
+\headcommand {\beamer@documentpages {30}}
+\headcommand {\def \inserttotalframenumber {28}}

@@ -1,0 +1,71 @@
+\section{Loops}
+
+\begin{frame}[fragile]{Iteration}{Repeat the Same Instructions many times}
+    \begin{center}
+        \includegraphics[width=0.75\linewidth]{images/while_flow.png}
+    \end{center}
+\end{frame}
+
+\subsection{While Loop}
+\begin{frame}[fragile]{While Loop}{}
+    \begin{minted}{c++}
+        cin >> money;
+        while (money >= 45){
+            cout << "Buy an ice ceam cone" << endl;
+            money -= 45;
+            cout << "Money remaining: " << money << endl;
+        }
+        cout << "Out of Money" << endl;
+    \end{minted}
+    \begin{block}{If the input $money$ is 200, this results in the following output.}
+        \begin{minted}{bash}
+        Buy an ice ceam cone
+        Money remaining: 155
+        Buy an ice ceam cone
+        Money remaining: 110
+        Buy an ice ceam cone
+        Money remaining: 65 
+        Buy an ice ceam cone
+        Money remaining: 20 
+        \end{minted}
+    \end{block}
+\end{frame}
+
+\begin{frame}[fragile]{Compare this to the If Statement}{}
+    \begin{minted}[escapeinside=||]{c++}
+        cin >> money;
+        |\colorbox{green}{if}| (money >= 45){
+            cout << "Buy an ice ceam cone" << endl;
+            money -= 45;
+            cout << "Money remaining: " << money << endl;
+        }
+        cout << "Out of Money" << endl;
+    \end{minted}
+    \begin{block}{If the input $money$ is 200, this results in the following output.}
+        \begin{minted}{bash}
+        Buy an ice ceam cone
+        Money remaining: 155
+        \end{minted}
+    \end{block}
+\end{frame}
+
+\begin{frame}[fragile]{While Loop}{}
+    \begin{minted}[escapeinside=||]{c++}
+        cin >> money;
+        |\colorbox{green}{while}| (money >= 45){
+            cout << "Buy an ice ceam cone" << endl;
+            money -= 45;
+            cout << "Money remaining: " << money << endl;
+        }
+        cout << "Out of Money" << endl;
+    \end{minted}
+    \begin{block}{If the input $money$ is 200, this results in the following output.}
+        \begin{minted}{bash}
+        Buy an ice ceam cone
+        Money remaining: 155 . . .
+        \end{minted}
+    \end{block}
+\end{frame}
+
+\input{while_examples}
+\input{while_exercises}

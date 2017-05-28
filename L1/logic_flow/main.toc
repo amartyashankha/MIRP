@@ -6,4 +6,8 @@
 \beamer@sectionintoc {3}{Conditionals}{10}{0}{3}
 \beamer@subsectionintoc {3}{1}{If Else Statements}{10}{0}{3}
 \beamer@subsectionintoc {3}{2}{Nested Conditionals}{15}{0}{3}
-\beamer@sectionintoc {4}{Exercises}{18}{0}{4}
+\beamer@subsectionintoc {3}{3}{Exercises}{18}{0}{3}
+\beamer@sectionintoc {4}{Loops}{20}{0}{4}
+\beamer@subsectionintoc {4}{1}{While Loop}{21}{0}{4}
+\beamer@subsectionintoc {4}{2}{Counters}{25}{0}{4}
+\beamer@subsectionintoc {4}{3}{Exercises}{29}{0}{4}

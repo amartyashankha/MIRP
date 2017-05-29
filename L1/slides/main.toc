@@ -6,8 +6,8 @@
 \beamer@subsectionintoc {2}{2}{Editor}{13}{0}{2}
 \beamer@sectionintoc {3}{Basics}{18}{0}{3}
 \beamer@subsectionintoc {3}{1}{Input and Output}{18}{0}{3}
-\beamer@subsectionintoc {3}{2}{Variables}{24}{0}{3}
-\beamer@subsectionintoc {3}{3}{Expressions}{30}{0}{3}
-\beamer@subsectionintoc {3}{4}{Comments}{36}{0}{3}
-\beamer@subsectionintoc {3}{5}{Example}{38}{0}{3}
-\beamer@sectionintoc {4}{Exercises}{41}{0}{4}
+\beamer@subsectionintoc {3}{2}{Variables}{26}{0}{3}
+\beamer@subsectionintoc {3}{3}{Expressions}{36}{0}{3}
+\beamer@subsectionintoc {3}{4}{Comments}{47}{0}{3}
+\beamer@subsectionintoc {3}{5}{Example}{49}{0}{3}
+\beamer@sectionintoc {4}{Exercises}{52}{0}{4}

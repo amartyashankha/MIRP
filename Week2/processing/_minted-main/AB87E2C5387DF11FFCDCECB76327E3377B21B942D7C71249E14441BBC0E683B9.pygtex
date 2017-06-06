@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+        \PYG{c+c1}{// Always the middle}
+        \PYG{c+c1}{// no matter how size() changes}
+        \PYG{n}{ellipse}\PYG{p}{(}\PYG{n}{width}\PYG{o}{/}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{n}{height}\PYG{o}{/}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{l+m+mi}{50}\PYG{p}{,} \PYG{l+m+mi}{50}\PYG{p}{);}
+\end{Verbatim}

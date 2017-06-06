@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k+kt}{char} \PYG{n}{LEFT} \PYG{o}{=} \PYG{l+s+sc}{\PYGZsq{}a\PYGZsq{}}\PYG{p}{,} \PYG{n}{RIGHT} \PYG{o}{=} \PYG{l+s+sc}{\PYGZsq{}d\PYGZsq{}}\PYG{p}{,} \PYG{n}{UP} \PYG{o}{=} \PYG{l+s+sc}{\PYGZsq{}w\PYGZsq{}}\PYG{p}{;}
+    \PYG{n}{boolean} \PYG{n}{left}\PYG{p}{,} \PYG{n}{right}\PYG{p}{,} \PYG{n}{up}\PYG{p}{;}
+\end{Verbatim}

@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k}{if} \PYG{p}{(}\PYG{n}{left}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+        \PYG{c+c1}{// Move Left . . .}
+    \PYG{p}{\PYGZcb{}}
+    \PYG{k}{if} \PYG{p}{(}\PYG{n}{right}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+        \PYG{c+c1}{// Move Right . . .}
+    \PYG{p}{\PYGZcb{}}
+    \PYG{k}{if} \PYG{p}{(}\PYG{n}{up}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+        \PYG{c+c1}{// Move Up . . .}
+    \PYG{p}{\PYGZcb{}}
+\end{Verbatim}

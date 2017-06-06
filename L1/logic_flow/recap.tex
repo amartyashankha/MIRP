@@ -1,1 +1,58 @@
-\section{Recap}
+\section{Expressions Recap}
+
+\begin{frame}[fragile]{Area of Circle}{}
+    \huge
+    \begin{minted}{c++}
+        float R, area;
+        cin >> R;
+    \end{minted}
+    \pause
+    \begin{minted}{c++}
+        float pi = 3.14159;
+    \end{minted}
+    \pause
+    \begin{minted}{c++}
+        area = pi * R * R;
+        cout << "Area of Circle: ";
+        cout << area << endl;
+    \end{minted}
+\end{frame}
+
+\begin{frame}[fragile]{}{}
+    \LARGE
+    \begin{minted}{c++}
+        int N, sum_of_numbers;
+        cin >> N;
+    \end{minted}
+    \pause
+    \begin{minted}{c++}
+        sum_of_numbers = N*(N+1)/2;
+    \end{minted}
+\end{frame}
+
+\begin{frame}[fragile]{Find Last Digit of Number}{}
+    \huge
+    \begin{minted}{c++}
+        int N, last_digit;
+        cin >> N;
+    \end{minted}
+    \pause
+    \begin{minted}{c++}
+        last_digit = N % 10;
+    \end{minted}
+\end{frame}
+
+\begin{frame}[fragile]{Remove Last Digit of Number}{}
+    \huge
+    \begin{block}{}
+        Go from $12345\longrightarrow 1234\longrightarrow 123$.
+    \end{block}
+    \begin{minted}{c++}
+        int N;
+        cin >> N;
+    \end{minted}
+    \pause
+    \begin{minted}{c++}
+        N = N / 10;
+    \end{minted}
+\end{frame}

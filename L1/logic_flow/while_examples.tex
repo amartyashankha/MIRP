@@ -7,17 +7,21 @@
             \item Take $N$ inputs and arrange them in ascending order.
             \item Find the average of $N$ numbers
         \end{itemize}
+        \pause
         \item Thoughts ?
+        \pause
         \item Use a counter variable
         \begin{itemize}
             \item Initialize counter to zero
                 \begin{minted}{c++}
                     int counter = 0;
                 \end{minted}
+        \pause
             \item Increment counter at every loop iteration
                 \begin{minted}{c++}
                     counter += 1; OR counter++;
                 \end{minted}
+        \pause
             \item Terminate when counter hits $N$
                 \begin{minted}{c++}
                     while (counter < N) { . . . }
@@ -30,10 +34,10 @@
 \begin{frame}[fragile]{Using a Counter}{}
     \begin{minted}{c++}
         int counter = 0, N;
-        cin >> N;
+        cin >> N;                   //Number of inputs
         while (counter < N) {
             // Body of Loop. Take input, process data etc . .
-            counter++;
+            counter++;              //Increment Counter
             cout << "Counter Value:" << counter << endl;
         }
         cout << "Exited Loop\n";

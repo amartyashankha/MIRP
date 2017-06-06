@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    tl  float: radius of top\PYGZhy{}left corner
+    tr  float: radius of top\PYGZhy{}right corner
+    br  float: radius of bottom\PYGZhy{}right corner
+    bl  float: radius of bottom\PYGZhy{}left corner
+\end{Verbatim}

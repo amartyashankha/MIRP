@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+        \PYG{k+kt}{int} \PYG{n}{counter} \PYG{o}{=} \PYG{l+m+mi}{0}\PYG{p}{,} \PYG{n}{N}\PYG{p}{;}
+        \PYG{n}{cin} \PYG{o}{\PYGZgt{}\PYGZgt{}} \PYG{n}{N}\PYG{p}{;}                   \PYG{c+c1}{//Number of inputs}
+        \PYG{k}{while} \PYG{p}{(}\PYG{n}{counter} \PYG{o}{\PYGZlt{}} \PYG{n}{N}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+            \PYG{c+c1}{// Body of Loop. Take input, process data etc . .}
+            \PYG{n}{counter}\PYG{o}{++}\PYG{p}{;}              \PYG{c+c1}{//Increment Counter}
+            \PYG{n}{cout} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{l+s}{\PYGZdq{}Counter Value:\PYGZdq{}} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{n}{counter} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{n}{endl}\PYG{p}{;}
+        \PYG{p}{\PYGZcb{}}
+        \PYG{n}{cout} \PYG{o}{\PYGZlt{}\PYGZlt{}} \PYG{l+s}{\PYGZdq{}Exited Loop}\PYG{l+s+se}{\PYGZbs{}n}\PYG{l+s}{\PYGZdq{}}\PYG{p}{;}
+\end{Verbatim}

@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8}]
+        \PYG{n}{cin} \PYG{o}{\PYGZgt{}}\PYG{o}{\PYGZgt{}} \PYG{n}{money}\PYG{p}{;}
+        \PYG{esc}{\colorbox{green}{if}} \PYG{p}{(}\PYG{n}{money} \PYG{o}{\PYGZgt{}}\PYG{o}{=} \PYG{l+m+mi}{45}\PYG{p}{)}\PYG{p}{\PYGZob{}}
+            \PYG{n}{cout} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{l+s}{\PYGZdq{}}\PYG{l+s}{Buy an ice ceam cone}\PYG{l+s}{\PYGZdq{}} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{n}{endl}\PYG{p}{;}
+            \PYG{n}{money} \PYG{o}{\PYGZhy{}}\PYG{o}{=} \PYG{l+m+mi}{45}\PYG{p}{;}
+            \PYG{n}{cout} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{l+s}{\PYGZdq{}}\PYG{l+s}{Money remaining: }\PYG{l+s}{\PYGZdq{}} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{n}{money} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{n}{endl}\PYG{p}{;}
+        \PYG{p}{\PYGZcb{}}
+        \PYG{n}{cout} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{l+s}{\PYGZdq{}}\PYG{l+s}{Out of Money}\PYG{l+s}{\PYGZdq{}} \PYG{o}{\PYGZlt{}}\PYG{o}{\PYGZlt{}} \PYG{n}{endl}\PYG{p}{;}
+\end{Verbatim}

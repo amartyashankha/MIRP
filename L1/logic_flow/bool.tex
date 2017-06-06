@@ -5,6 +5,7 @@
     \begin{block}{}
         Booleans only have two possible values -- True or False
     \end{block}
+    \pause
     \vspace{1.5em}
     {\Large \textbf{Statement:} Schrodinger's cat is dead !}
     \begin{columns}[c]
@@ -26,12 +27,17 @@
 \end{frame}
 
 \begin{frame}[fragile]{Booleans}{A New Data Type}
+    \Huge
     \begin{itemize}
         \item In C++ we have a \textbf{bool} data-type
             \begin{minted}{c++}
                 bool var = true;
             \end{minted}
-        \item Actually stored as integer (\textbf{true} is 1 and \textbf{false} is 0)
+        \pause
+        \item Actually stored as integer
+            \begin{itemize}
+                \item \textbf{true} is 1 and \textbf{false} is 0
+            \end{itemize}
         \pause
         \item In the other direction
             \begin{itemize}
@@ -50,6 +56,7 @@
     \textbf{Operation}  & \textbf{Common Symbol} & \textbf{C++ Symbol} & \textbf{Expression} \\ \hline
     Equals              & $=$       & $==$  & $(a == b)           $ \\ \hline
     Not Equals          & $\not=$   & $!=$  & $(a \mathrel!= b)           $ \\ \hline
+    \pause
     Less Than           & $<$       & $<$   & $(a < b)    $ \\ \hline
     Greater Than        & $>$       & $>$   & $(a > b) $ \\ \hline
     Less Than Equals    & $\le$     & $<=$  & $(a <= b)   $ \\ \hline

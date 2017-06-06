@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+        \PYG{k+kt}{float} \PYG{n}{R}\PYG{p}{,} \PYG{n}{area}\PYG{p}{;}
+        \PYG{n}{cin} \PYG{o}{\PYGZgt{}\PYGZgt{}} \PYG{n}{R}\PYG{p}{;}
+\end{Verbatim}

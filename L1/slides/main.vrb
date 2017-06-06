@@ -11,6 +11,7 @@
         of the last three digits of $N$.
         If there are less than three digits, just sum all of them.
     \end{block}
+    \setbeamercolor{block title}{use=structure,fg=white,bg=red!35!black}
     \begin{block}{If you are familiar with C/C++}
         Write a program that takes as input an integer $N$, and computes the following sum.\\
         $\frac{6}{1^2}+\frac{6}{2^2}+\frac{6}{3^2}+\frac{6}{4^2}+\cdots+\frac{6}{N^2}$

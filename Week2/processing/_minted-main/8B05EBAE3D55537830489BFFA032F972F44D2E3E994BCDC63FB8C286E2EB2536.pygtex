@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k+kt}{void} \PYG{n+nf}{updateBallPosition}\PYG{p}{()} \PYG{p}{\PYGZob{}}
+        \PYG{n}{ballX} \PYG{o}{+=} \PYG{n}{ballVx}\PYG{p}{;}
+        \PYG{n}{ballY} \PYG{o}{+=} \PYG{n}{ballVy}\PYG{p}{;}
+    \PYG{p}{\PYGZcb{}}
+\end{Verbatim}

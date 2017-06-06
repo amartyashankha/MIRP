@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k}{if} \PYG{p}{(}\PYG{n}{mousePressed}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+       \PYG{n}{fill}\PYG{p}{(}\PYG{l+m+mi}{255}\PYG{p}{);} \PYG{c+c1}{// White}
+    \PYG{p}{\PYGZcb{}} \PYG{k}{else} \PYG{p}{\PYGZob{}}
+        \PYG{n}{fill}\PYG{p}{(}\PYG{l+m+mi}{0}\PYG{p}{);} \PYG{c+c1}{// Black}
+    \PYG{p}{\PYGZcb{}}
+\end{Verbatim}

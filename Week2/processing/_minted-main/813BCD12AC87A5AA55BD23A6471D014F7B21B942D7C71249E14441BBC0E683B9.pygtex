@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{void} \PYG{n+nf}{setup} \PYG{p}{()\PYGZob{}}
+    \PYG{n}{size}\PYG{p}{(}\PYG{n}{displayWidth}\PYG{p}{,} \PYG{n}{displayHeight}\PYG{p}{);}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k+kt}{void} \PYG{n+nf}{draw} \PYG{p}{()} \PYG{p}{\PYGZob{}}
+        \PYG{k}{if} \PYG{p}{(}\PYG{n}{mousePressed}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+            \PYG{n}{drawTarget}\PYG{p}{(}\PYG{n}{mouseX}\PYG{p}{,} \PYG{n}{mouseY}\PYG{p}{);}
+            \PYG{n}{delay}\PYG{p}{(}\PYG{l+m+mi}{200}\PYG{p}{);}
+        \PYG{p}{\PYGZcb{}}
+    \PYG{p}{\PYGZcb{}}
+\end{Verbatim}

@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k+kt}{void} \PYG{n+nf}{keyReleased}\PYG{p}{()} \PYG{p}{\PYGZob{}}
+        \PYG{k}{if} \PYG{p}{(}\PYG{n}{key} \PYG{o}{==} \PYG{n}{LEFT}\PYG{p}{)}       \PYG{n}{left} \PYG{o}{=} \PYG{n+nb}{false}\PYG{p}{;}
+        \PYG{k}{if} \PYG{p}{(}\PYG{n}{key} \PYG{o}{==} \PYG{n}{RIGHT}\PYG{p}{)}      \PYG{n}{right} \PYG{o}{=} \PYG{n+nb}{false}\PYG{p}{;}
+        \PYG{k}{if} \PYG{p}{(}\PYG{n}{key} \PYG{o}{==} \PYG{n}{UP}\PYG{p}{)}         \PYG{n}{up} \PYG{o}{=} \PYG{n+nb}{false}\PYG{p}{;}
+    \PYG{p}{\PYGZcb{}}
+\end{Verbatim}

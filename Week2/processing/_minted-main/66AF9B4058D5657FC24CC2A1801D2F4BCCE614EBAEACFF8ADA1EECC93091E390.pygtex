@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+        a  float: x\PYGZhy{}coordinate of ellipse
+        b  float: y\PYGZhy{}coordinate of ellipse
+        c  float: width of the ellipse
+        d  float: height of the ellipse
+\end{Verbatim}

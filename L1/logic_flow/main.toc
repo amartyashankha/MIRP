@@ -1,13 +1,13 @@
 \beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Recap}{3}{0}{1}
-\beamer@sectionintoc {2}{Logical Expressions}{3}{0}{2}
-\beamer@subsectionintoc {2}{1}{Booleans}{3}{0}{2}
-\beamer@subsectionintoc {2}{2}{New Operators}{7}{0}{2}
-\beamer@sectionintoc {3}{Conditionals}{10}{0}{3}
-\beamer@subsectionintoc {3}{1}{If Else Statements}{10}{0}{3}
-\beamer@subsectionintoc {3}{2}{Nested Conditionals}{15}{0}{3}
-\beamer@subsectionintoc {3}{3}{Exercises}{18}{0}{3}
-\beamer@sectionintoc {4}{Loops}{20}{0}{4}
-\beamer@subsectionintoc {4}{1}{While Loop}{21}{0}{4}
-\beamer@subsectionintoc {4}{2}{Counters}{25}{0}{4}
-\beamer@subsectionintoc {4}{3}{Exercises}{29}{0}{4}
+\beamer@sectionintoc {1}{Expressions Recap}{3}{0}{1}
+\beamer@sectionintoc {2}{Logical Expressions}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Booleans}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{New Operators}{18}{0}{2}
+\beamer@sectionintoc {3}{Conditionals}{22}{0}{3}
+\beamer@subsectionintoc {3}{1}{If Else Statements}{22}{0}{3}
+\beamer@subsectionintoc {3}{2}{Nested Conditionals}{31}{0}{3}
+\beamer@subsectionintoc {3}{3}{Exercises}{34}{0}{3}
+\beamer@sectionintoc {4}{Loops}{36}{0}{4}
+\beamer@subsectionintoc {4}{1}{While Loop}{37}{0}{4}
+\beamer@subsectionintoc {4}{2}{Counters}{42}{0}{4}
+\beamer@subsectionintoc {4}{3}{Exercises}{50}{0}{4}

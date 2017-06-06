@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{int} \PYG{n}{displayWidth} \PYG{o}{=} \PYG{l+m+mi}{800}\PYG{p}{;}
+\PYG{k+kt}{int} \PYG{n}{displayHeight} \PYG{o}{=} \PYG{l+m+mi}{400}\PYG{p}{;}
+\end{Verbatim}

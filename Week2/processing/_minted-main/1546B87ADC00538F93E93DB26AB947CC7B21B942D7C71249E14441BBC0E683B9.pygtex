@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+        \PYG{c+c1}{// The wrong way to specify}
+        \PYG{c+c1}{// the middle of the screen}
+        \PYG{n}{ellipse}\PYG{p}{(}\PYG{l+m+mi}{400}\PYG{p}{,} \PYG{l+m+mi}{200}\PYG{p}{,} \PYG{l+m+mi}{50}\PYG{p}{,} \PYG{l+m+mi}{50}\PYG{p}{);}
+\end{Verbatim}

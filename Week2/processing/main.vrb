@@ -1,0 +1,9 @@
+\frametitle{Exercise}\framesubtitle {}
+    \LARGE
+    \begin{block}{}
+    Resolve collisions with other walls.
+    Move ball using WASD.
+    \end{block}
+    \begin{block}{}
+    Move ball using WASD.
+    \end{block}

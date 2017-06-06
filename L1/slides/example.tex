@@ -10,7 +10,14 @@
 % modify this file as you see fit and even to delete this copyright
 % notice. 
 
+\nohandouttrue
+%\nohandoutfalse
+
+\ifnohandout
+\documentclass{beamer}
+\else
 \documentclass[handout]{beamer}
+\fi
 
 % There are many different themes available for Beamer. A comprehensive
 % list with examples is given here:
@@ -80,12 +87,14 @@
 
 % Delete this, if you do not want the table of contents to pop up at
 % the beginning of each subsection:
+\ifnohandout
 \AtBeginSubsection[]
 {
   \begin{frame}<beamer>{Outline}
     \tableofcontents[currentsection,currentsubsection]
   \end{frame}
 }
+\fi
 
 % Let's get started
 \begin{document}
@@ -94,10 +103,13 @@
   \titlepage
 \end{frame}
 
+\ifnohandout
+\AtBeginSubsection[]
 \begin{frame}{Outline}
   \tableofcontents`
   % You might wish to add the option [pausesections]
 \end{frame}
+\fi
 
 % Section and subsections will appear in the presentation overview
 % and table of contents.

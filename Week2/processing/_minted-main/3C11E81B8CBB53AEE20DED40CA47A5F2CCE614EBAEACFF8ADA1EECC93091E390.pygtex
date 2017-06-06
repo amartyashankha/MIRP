@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    a   float: x\PYGZhy{}coordinate of rectangle
+    b   float: y\PYGZhy{}coordinate of rectangle
+    c   float: width of the rectangle
+    d   float: height of the rectangle
+\end{Verbatim}

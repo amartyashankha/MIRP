@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Indian Computing Olympiad}{3}{0}{1}
+\beamer@sectionintoc {2}{Processing Graphics}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Getting Started}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Logic Flow}{13}{0}{2}
+\beamer@sectionintoc {3}{Functions}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{Definition}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Examples}{23}{0}{3}
+\beamer@subsectionintoc {3}{3}{Defining Functions}{31}{0}{3}
+\beamer@sectionintoc {4}{More on Processing}{37}{0}{4}
+\beamer@subsectionintoc {4}{1}{Primitives}{37}{0}{4}
+\beamer@subsectionintoc {4}{2}{Coordinate System}{47}{0}{4}
+\beamer@subsectionintoc {4}{3}{Debugging}{53}{0}{4}
+\beamer@subsectionintoc {4}{4}{Interaction}{56}{0}{4}
+\beamer@subsectionintoc {4}{5}{Physics}{63}{0}{4}
+\beamer@subsectionintoc {4}{6}{Exercise}{70}{0}{4}
